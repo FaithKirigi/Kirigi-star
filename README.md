@@ -40,7 +40,6 @@ I combine a background in **Economics** with hands-on experience in **Finance, R
 ---
 
 ## 🔹 Roadmap / Current Work
-- ✅ Documenting and structuring all **Applied Data Science Lab** projects  
 - 🔄 Rebuilding selected projects (Air Quality in Nairobi, Bankruptcy in Poland) using **public datasets**  
 - 📊 Expanding portfolio with interactive dashboards (Streamlit, Power BI)  
 - 📚 Continuous learning in **Machine Learning & Business Analytics**  
