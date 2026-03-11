@@ -1,62 +1,83 @@
 # 👋 Hi, I’m Faith Kirigi  
 
-💡 **Fraud & Risk Analyst | Aspiring Data Scientist | Fintech & Analytics Enthusiast**  
+💡 **Fraud & Risk Data Analyst | Financial Transaction Analytics | SQL & Python**
 
-I combine a background in **Economics** with hands-on experience in **Finance, Risk, and Data Analysis**. Currently, I’m sharpening my data science skills through applied projects, building machine learning models, and exploring the intersection of **AI, finance, and business analytics**.  
+I analyze high-volume financial and transactional data to identify fraud patterns, assess risk, and support data-driven decision-making. My background combines **Economics, Finance, and Data Analytics**, with hands-on experience investigating digital transactions and building analytical solutions.
+
+Currently, I’m expanding my portfolio with projects focused on **fraud detection, transaction analytics, and risk modeling**.
 
 ---
 
 ## 🔹 About Me
-- 🎓 Background in **Economics** with 3+ years of experience in **Finance** and **Analysis**  
-- 📊 Strong focus on **Fraud Detection, Risk Analysis, and Business Analytics**  
-- 🤖 Building machine learning models with a focus on **practical, real-world applications**  
-- 🚀 Long-term goal: Leverage **data-driven insights** to create scalable impact in the financial and tech industries  
+
+- 📊 **Fraud & Risk Analyst** analyzing digital transactions and chargeback workflows  
+- 🎓 Background in **Economics** with professional experience in **Finance and Data Analysis**  
+- 🧠 Interested in **fraud detection, financial analytics, and risk modeling**  
+- 📈 Building data solutions that translate complex data into actionable business insights
 
 ---
 
 ## 🔹 Skills & Tools
-- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL  
-- **Machine Learning:** Regression, Classification, Random Forest, Gradient Boosting, Time Series (AR, ARMA)  
-- **Data Wrangling:** Data Cleaning, Feature Engineering, Handling Imbalanced Data  
-- **Visualization & BI:** Matplotlib, Seaborn, Power BI  
-- **Other Tools:** Git/GitHub, Jupyter, Excel  
+
+**Data Analysis**
+SQL • Python • Pandas • NumPy • Data Cleaning • Feature Engineering
+
+**Machine Learning**
+Classification • Random Forest • Gradient Boosting • Handling Imbalanced Data
+
+**Analytics & Visualization**
+Power BI • Matplotlib • Seaborn • Business Reporting
+
+**Tools**
+Git • GitHub • Jupyter Notebook • Excel
 
 ---
 
 ## 🔹 Featured Projects
 
-### 🔍 [Fraud Detection Model](https://github.com/FaithKirigi/Fraud-detection-ML)  
-- Built ML models to detect fraudulent financial transactions  
-- Applied **EDA, feature engineering, and classification techniques**  
-- **(Achieved 95% precision, improved recall with resampling techniques)**  
+### 🔍 Fraud Detection Model
+Machine learning project analyzing financial transaction data to detect fraudulent activity.
 
-### 🏠 [Applied Data Science Lab Projects](https://github.com/FaithKirigi/applied-data-science-lab-projects)  
-- Summaries of 5 real-world projects (Housing, Air Quality, Earthquake Damage, Bankruptcy, etc.)  
-- Showcases **SQL, MongoDB, regression, classification, ensemble models, time series**  
-- 📌 Future plan: Rebuild select projects with open datasets and publish full notebooks  
+Key work:
+- Exploratory Data Analysis on transaction behavior
+- Feature engineering for fraud pattern identification
+- Built classification models to identify suspicious transactions
+- Improved recall using resampling techniques
 
-*(More projects will be added as I expand my portfolio)*  
-
----
-
-## 🔹 Roadmap / Current Work
-- 🔄 Rebuilding selected projects (Air Quality in Nairobi, Bankruptcy in Poland) using **public datasets**  
-- 📊 Expanding portfolio with interactive dashboards (Streamlit, Power BI)  
-- 📚 Continuous learning in **Machine Learning & Business Analytics**  
+🔗 Project:  
+https://github.com/FaithKirigi/Fraud-detection-ML
 
 ---
 
-## 🔹 GitHub Highlights
-![Faith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaithKirigi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithKirigi&layout=compact&theme=tokyonight)  
+### 📊 Applied Data Science Lab Projects
+Collection of real-world analytical projects covering:
+
+- Housing price prediction
+- Air quality analysis
+- Earthquake damage prediction
+- Bankruptcy prediction
+- Time series forecasting
+
+These projects demonstrate a range of techniques including:
+
+- regression
+- classification
+- ensemble models
+- time series analysis
+
+🔗 Repository:  
+https://github.com/FaithKirigi/applied-data-science-lab-projects
+
+---
+
+## 🔹 Current Focus
+
+- Expanding portfolio with **financial analytics and fraud detection projects**
+- Building **transaction analytics dashboards**
+- Developing **risk scoring models for financial data**
 
 ---
 
 ## 🔹 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/faith-kirigi/)  
-- 📊 [Kaggle](https://www.kaggle.com/faithwanjirukirigi)  
-- 📧 faith.kirigi@gmail.com   
 
----
-nges.
---->
+LinkedIn: (https://www.linkedin.com/in/faith-kirigi/)
